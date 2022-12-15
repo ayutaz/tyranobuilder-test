@@ -12,7 +12,7 @@
 
 # Memo
 
-* 使用している画像はpublic domainです
+* 使用している画像は以下のサイトから使用させていただいています
   (<a href="https://pixabay.com/ja/users/lavnatalia-5858294/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3316342">
   Natalia Lavrinenko</a>
   による<a href="https://pixabay.com/ja//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3316342">
