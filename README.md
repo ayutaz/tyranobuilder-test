@@ -2,6 +2,10 @@
 
 ティラノビルダーを使用した Simple なゲームを作成
 
+# Demo
+
+[ゲームのデプロイ](https://639aa9c31983411e7aa6dc03--tyrano-builder-test.netlify.app/)
+
 # requirements
 
 - TyranoBuilder 2.0.3.0 standard ja
